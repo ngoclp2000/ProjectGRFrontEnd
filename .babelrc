@@ -1,7 +1,0 @@
-{
-    "plugins": [
-        ["wildcard", {
-            "exts": ["js", "es6", "es", "jsx", "javascript"]
-        }]
-    ]
-}
