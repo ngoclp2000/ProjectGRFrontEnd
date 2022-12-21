@@ -1,0 +1,44 @@
+/* Image */
+$image-sprite: '@/assets/images/sprites.png';
+$image-admin-sprite: '@/assets/images/admin/sprites.png';
+$image-admin-dashboard-sprite: '@/assets/images/admin/dashboard/sprites.png';
+$image-admin-dashboard-summary-sprite: '@/assets/images/admin/dashboard/summary_sprites.png';
+$image-sprite-16: '@/assets/images/sprites-16.png';
+/* Color */
+$primary: #de3618;
+$secondary: #c1c4cc;
+$semi-secondary: #707070;
+$white: #fff;
+$black: #111111;
+$bg-grey: #f4f5f8;
+
+$color-error: #ff7777;
+$color-focus: #2080ff;
+$color-control-label: #212121;
+
+
+/* Input */
+
+$input-normal-border: 1px solid $secondary;
+$input-border-radius: 2px;
+$input-hover-border-color: $color-focus;
+$input-focus-border-color: $color-focus;
+$input-error-border-color: #ff0000;
+$input-disabled-color: $secondary;
+$input-disabled-bg:  $bg-grey;
+$input-outline: $black auto 1px;
+$input-height: 38px !default;
+
+
+/* Font */
+$font-weight-bold: 700;
+
+// Fontsize
+$font-size-label: 24px;
+$font-filter-size-label: 18px;
+
+/* Combo */
+$combo-height : 32px;
+
+/* Menu */
+$menu-wrapper-hv : #e8e9ec;
